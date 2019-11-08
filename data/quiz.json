@@ -1,0 +1,93 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "This field is sometimes known as &ldquo;The Dismal Science.&rdquo;",
+      "correct_answer": "Economics",
+      "incorrect_answers": [ "Philosophy", "Politics", "Physics", "Economics" ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "On average, Americans consume 100 pounds of what per second?",
+      "correct_answer": "Chocolate",
+      "incorrect_answers": [ "Potatoes", "Chocolate", "Donuts", "Cocaine" ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who is the founder of &quot;The Lego Group&quot;?",
+      "correct_answer": "Ole Kirk Christiansen",
+      "incorrect_answers": [ " Jens Niels Christiansen", "Kirstine Christiansen", "Ole Kirk Christiansen", " Gerhardt Kirk Christiansen" ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "When was Nintendo founded?",
+      "correct_answer": "September 23rd, 1889",
+      "incorrect_answers": [ "October 19th, 1891", "March 4th, 1887", "September 23rd, 1889", "December 27th, 1894" ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of the following carbonated soft drinks were introduced first?",
+      "correct_answer": "Dr. Pepper",
+      "incorrect_answers": [ "Dr. Pepper", "Coca-Cola", "Sprite", "Mountain Dew" ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What was the soft drink Pepsi originally introduced as?",
+      "correct_answer": "Brad&#039;s Drink",
+      "incorrect_answers": [ "Pepsin Pop", "Carolina Cola", "Pepsin Syrup", "Brad&#039;s Drink" ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In a 1994 CBS interview, Microsoft co-founder Bill Gates performed what unusual trick on camera?",
+      "correct_answer": "Jumping over an office chair",
+      "incorrect_answers": [ "Jumping backwards over a desk", "Standing on his head", "Jumping over an office chair", "Typing on a keyboard during a handstand" ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Computer manufacturer Compaq was acquired for $25 billion dollars in 2002 by which company?",
+      "correct_answer": "Hewlett-Packard",
+      "incorrect_answers": [ "Hewlett-Packard", "Toshiba", "Asus", "Dell" ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Earl Grey tea is black tea flavoured with what?",
+      "correct_answer": "Bergamot oil",
+      "incorrect_answers": [ "Lavender", "Vanilla", "Honey", "Bergamot oil" ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which American manufactured submachine gun was informally known by the American soldiers that used it as &quot;Grease Gun&quot;?",
+      "correct_answer": "M3",
+      "incorrect_answers": [ "Colt 9mm", "M3", "Thompson", "MAC-10" ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "A statue of Charles Darwin sits in what London museum?",
+      "correct_answer": "Natural History Museum",
+      "incorrect_answers": [ "Tate", "British Museum", "Natural History Museum", "Science Museum" ]
+    }
+  ]
+}

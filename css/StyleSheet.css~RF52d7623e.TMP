@@ -1,0 +1,10 @@
+﻿body {
+    background-image: url("D:\Profiles\nmaadhuree\source\repos\super-quiz.png");
+}
+
+h1{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size:50px;
+    text-align:center;
+    text-decoration:wavy;
+}
