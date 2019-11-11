@@ -38,9 +38,18 @@ h1 {
     text-align:center;
 }
 
-#qndiv{
+#qndiv {
+    text-align: center;
+    align-content:center;
+    
+}
+#buttondiv{
     text-align:center;
 }
+.radioptr{
+    float:left;
+}
+
 #nextid {
     text-align:center;
     font-size: 28px;
@@ -98,7 +107,10 @@ h1 {
 #qndiv h3{
     font-size:40px;
 }
-
+.radioclass{
+    width:400px;
+    margin-left:750px;
+}
 .choice{
     font-size:30px;
 }

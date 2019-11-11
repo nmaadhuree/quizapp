@@ -24,6 +24,9 @@ document.onload = getdata();
 var i = 0;
 
 function display() {
+    var divptr = document.getElementById("qndiv");
+    //divptr.style.backgroundColor = "#b366ff";
+    divptr.style.backgroundColor = "#ff794d";
     var h1ptr = document.getElementsByTagName("h1");
     h1ptr[0].innerHTML = "";
     var nextptr = document.getElementsByName("next");
@@ -100,7 +103,7 @@ function result() {
 function del() {
    
     var h1ptr = document.getElementsByTagName("h1");
-    h1ptr[0].innerHTML = " Alas...!! You Forfeighted the quiz";
+    h1ptr[0].innerHTML = " Alas...!! You Forfeited the quiz";
     var divptr = document.getElementById("qndiv");
     divptr.style.display = "none";
     var nextptr = document.getElementsByName("next");
