@@ -25,8 +25,8 @@ var i = 0;
 
 function display() {
     var divptr = document.getElementById("qndiv");
-    divptr.style.backgroundColor = "#b366ff";
-    //divptr.style.backgroundColor = "#ff794d";
+    divptr.style.backgroundColor = "#ff794d";
+    //divptr.style.backgroundColor = "mediumvioletred";
     var h1ptr = document.getElementsByTagName("h1");
     h1ptr[0].innerHTML = "";
     var nextptr = document.getElementsByName("next");
